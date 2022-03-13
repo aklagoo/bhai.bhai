@@ -1,0 +1,10 @@
+html {
+    background: #333;
+}
+button {
+    background: #ffb647;
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+}
